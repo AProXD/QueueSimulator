@@ -5,7 +5,7 @@ public class QueueSimulator{
    public static void main(String[] args) throws InterruptedException{
       
       Random rand = new Random();
-      String[] names = {"Bob","James","Ryan","Samantha","Sophia","Robert","Linus","David","Hugo","Juan","Pepe","Patrick"};
+      String[] names = {"Bob","James","Ryan","Samantha","Sophia","Robert","Linus","David","Hugo","Juan","Pepe","Patrick","Alonso","Diego","Josue","Francesco","Juanteo","Fabrizio","Rodrigo","Racquel","Sam","Bella","Sophia","Steve","Alex","Elliot"};
       Scanner fetch = new Scanner(System.in);
       Queue<String> people = new LinkedList<String>();
       
